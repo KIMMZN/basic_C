@@ -15,3 +15,5 @@ a.out  # 기본 컴파일 출력 이름
 # *.a
 # *.lib
 # *.pdb
+
+.vscode/
